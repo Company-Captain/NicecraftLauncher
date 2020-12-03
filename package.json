@@ -5,9 +5,9 @@
   "description": "A humble fork of Helios Laucher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/Company-Captain/HeliosLauncher",
+  "homepage": "https://github.com/Company-Captain/NicecraftLauncher",
   "bugs": {
-    "url": "https://github.com/Company-Captain/HeliosLauncher/issues"
+    "url": "https://github.com/Company-Captain/NicecraftLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Company-Captain/NicecraftLauncher.git"
   }
 }
